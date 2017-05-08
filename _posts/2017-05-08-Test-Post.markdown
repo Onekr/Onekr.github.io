@@ -1,6 +1,19 @@
 ---
 layout: post
-title: Test Post
+title: 使用 Github Pages 与 Jekyll 搭建个人 Blog
 ---
 
-This is a post for test.
+# 使用 Github Pages 与 Jekyll 搭建个人 Blog
+
+
+------
+
+## 创建个人博客的源码仓库
+
+## 设置博客主题
+
+## 安装 Jekyll
+
+## 主页展示被博文列表
+
+## 添加博文方式
